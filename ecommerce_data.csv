@@ -1,0 +1,31 @@
+InvoiceNo,CustomerID,Description,ProductCode,Quantity,Price,Country
+10001,12345,Wireless Mouse,abc123,2,25.50,UK
+10002,12346,USB Keyboard,def456,1,45.00,USA
+10003,,Bluetooth Speaker,ghi789,3,60.00,UK
+10004,12348,,jkl012,5,15.00,Germany
+10005,12349,Laptop Stand,mno345,50,20.00,USA
+10006,12350,Webcam,pqr678,1,80.00,France
+10007,12351,HDMI Cable,stu901,1000,5.00,UK
+10008,12352,Monitor,vwx234,2,200.00,Germany
+10009,12353,Desk Lamp,yza567,4,30.00,France
+10010,12354,External Hard Drive,bcd890,1,120.00,USA
+10011,,Gaming Chair,efg123,2,150.00,UK
+10012,12356,Mouse Pad,hij456,10,8.00,Germany
+10013,12357,,klm789,3,75.00,France
+10014,12358,USB-C Hub,nop012,6,40.00,USA
+10015,12359,Mechanical Keyboard,qrs345,2,110.00,UK
+10016,12360,Graphics Tablet,tuv678,1,250.00,Germany
+10017,12361,Office Desk,wxy901,200,150.00,USA
+10018,12362,Noise Cancelling Headphones,zab234,1,300.00,France
+10019,12363,Smartphone Stand,cde567,15,12.00,UK
+10020,12364,Portable SSD,fgh890,1,180.00,Germany
+10021,12365,LED Strip Lights,ijk123,25,10.00,USA
+10022,12366,Router,lmn456,1,95.00,France
+10023,12367,Power Bank,opq789,7,35.00,UK
+10024,12368,Wireless Charger,rst012,3,22.00,Germany
+10025,12369,Microphone,uvw345,1,130.00,USA
+10026,12370,Tripod,xyz678,2,55.00,France
+10027,12371,Tablet Case,aaa111,8,18.00,UK
+10028,12372,Smart Watch,bbb222,1,220.00,Germany
+10029,12373,Laptop Backpack,ccc333,4,65.00,USA
+10030,12374,Projector,ddd444,1,500.00,France
